@@ -1,1 +1,1 @@
-function draw () {}
+function pageLoad () {}
